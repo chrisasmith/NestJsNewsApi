@@ -31,7 +31,7 @@
     "class-transformer": "^0.2.3",
     "class-validator": "^0.10.0",
     "mssql": "^5.1.0",
-    "npm": "^6.11.2",
+    "npm": "^6.14.6",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
     "pg": "^7.12.1",
